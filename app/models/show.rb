@@ -15,8 +15,4 @@ class Show < ActiveRecord::Base
 
 
 
-  def build_network(name)
-
-  end
-
 end
